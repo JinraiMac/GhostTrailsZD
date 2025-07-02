@@ -1,0 +1,44 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "GhostTrailsZd",
+	"Description": "PaperZD notifies to create Ghost Trails/Afterimages of PaperZD characters",
+	"Category": "Other",
+	"CreatedBy": "JinraiMac",
+	"CreatedByURL": "",
+	"DocsURL": "https://sites.google.com/view/ghosttrailsZd",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/370b28645e514ba2be191b1db55f5e63",
+	"FabURL": "com.epicgames.launcher://ue/Fab/product/370b2864-5e51-4ba2-be19-1b1db55f5e63",
+	"SupportURL": "",
+	"EngineVersion": "5.6",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "GhostTrailsZd",
+			"Type": "Runtime",
+			"LoadingPhase": "PreDefault",
+			"WhitelistPlatforms": [
+				"Win64"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "Paper2D",
+			"Enabled": true
+		},
+		{
+			"Name": "GhostTrails2d",
+			"Enabled": true
+		},
+		{
+			"Name": "PaperZD",
+			"Enabled": true
+		}
+
+	]
+}
