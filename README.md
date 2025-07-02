@@ -4,7 +4,7 @@ Plugin for UE to allow making GhostTrail2Ds with PaperZD notifies.
 
 
 
-See releases for compiled versions for specific UE versions.
+See releases (https://github.com/JinraiMac/GhostTrailsZD/releases) for compiled versions for specific UE versions.
 
 
 
